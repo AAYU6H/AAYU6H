@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AayushDhande
-- 👀 I’m interested in Coding and Gaming
-- 🌱 I’m currently learning ""Python, Web Development, and C""
+- 👀 I’m interested in <strong>Coding</strong> and <strong>Gaming</strong>
+- 🌱 I’m currently learning <strong>Python</strong>, <strong>Web Development</strong>, and <strong>C</strong>
 - 💞️ I’m looking to collaborate on <strong>Gaming</strong> and <strong>Coding</strong>, <strong>Chatting Apps</strong> and <strong>Social Service Apps</strong>
 - 📫 You can reach me on my Github ID. You can just ping me.
 
