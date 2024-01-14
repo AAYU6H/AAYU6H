@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AayushDhande
-- 👀 I’m interested in <strong>Coding</strong> and <strong>Photoraphy</strong>
+- 👋 Hi, I’m Aayush Dhande
+- 👀 I’m interested in <strong>Coding</strong> and <strong>Photography</strong>
 - 🌱 I’m currently learning <strong>Python</strong> and <strong>Web Development</strong>
 - 💞️ I’m looking to collaborate on <strong>Coding Apps</strong> and <strong>3D Animtions</strong>
 
